@@ -35,8 +35,8 @@ chaicode/
 Clone the repository and follow the instructions below to get started:
 
 ```bash
-git clone https://github.com/yourusername/chaicode.git
-cd chaicode
+git clone https://github.com/yourusername/password_generator.git
+cd password_generator
 ```
 
 ## 🤝 Contributing
